@@ -22,16 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hotdogg/proprietary/vendor/bin/mdm_helper:$(TARGET_COPY_OUT_VENDOR)/bin/mdm_helper \
     vendor/oneplus/hotdogg/proprietary/vendor/bin/mdm_helper_proxy:$(TARGET_COPY_OUT_VENDOR)/bin/mdm_helper_proxy \
     vendor/oneplus/hotdogg/proprietary/vendor/bin/oemnvbkdaemon:$(TARGET_COPY_OUT_VENDOR)/bin/oemnvbkdaemon \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_Bluetooth_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_Codec_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_General_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_Global_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_Handset_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_Hdmi_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_Headset_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_Speaker_cal.acdb \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/MTP_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/MTP_workspaceFile.qwsp \
-    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/EU/acdb_version:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/EU/acdb_version \
+    vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/acdb_version:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/acdb_version \
     vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/MTP_Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Codec_cal.acdb \
     vendor/oneplus/hotdogg/proprietary/vendor/etc/acdbdata/MTP/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_General_cal.acdb \
